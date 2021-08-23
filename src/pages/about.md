@@ -1,31 +1,31 @@
 ---
-title: About Me
+title: About Me2
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
-  title: About Me
+  title: About Me2
   description: A page about me and my work
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: About Me
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: A page about me and my work
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: About Me
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: A page about me and my work
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/about.jpg
       relativeUrl: true
 template: page
@@ -35,8 +35,8 @@ template: page
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-*Thank You for reading!*
+_Thank You for reading!_
